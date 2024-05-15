@@ -1,0 +1,20 @@
+{
+  "name": "ejercicio-unidad2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.3",
+    "moongoose": "^0.0.5",
+    "spotify-web-api-node": "^5.0.2"
+  }
+}
